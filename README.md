@@ -1,3 +1,3 @@
 ### little lipo command line tool
-
-mv $HOME/Library/Caches/Homebrew/dart--2.0.0.zip
+简单的lipo获取不同架构下执行文件的大小
+有C语言和ruby两种实现
